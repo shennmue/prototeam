@@ -14,11 +14,11 @@ Texture2D * generate_static() {
         return NULL;
     }
 
-    Texture2D me = LoadTexture("sprite2.png");
-    Texture2D house = LoadTexture("house2.png");
-    Texture2D ground = LoadTexture("ground_df.png");
-    Texture2D road = LoadTexture("road_df.png");
-    Texture2D building = LoadTexture("building.png");
+    Texture2D me = LoadTexture("../assets/sprite2.png");
+    Texture2D house = LoadTexture("../assets/house2.png");
+    Texture2D ground = LoadTexture("../assets/ground_df.png");
+    Texture2D road = LoadTexture("../assets/road_df.png");
+    Texture2D building = LoadTexture("../assets/building.png");
 
     tab[0] = me;
     tab[1] = house;
