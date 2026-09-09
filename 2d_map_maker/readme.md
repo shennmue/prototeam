@@ -13,10 +13,12 @@ Just draw your map using theses rules :
 
 Example : 
 ```
-GGGGGGG
-GGGHGGG
-GGGRRRR
-GGGGGGG
+GGGGGGGGGGG
+GGGHGGGGHGG
+GGGRRRRRRRR
+GGGGGGGGGGG
+GGGGGGGGGGG
+
 ```
 
 The result : 
