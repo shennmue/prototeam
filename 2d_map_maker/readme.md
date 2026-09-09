@@ -9,7 +9,7 @@ Just draw your map using theses rules :
 - R : Road 
 - G : Ground
 
-Look at this example : 
+Example : 
 ```
 GGGGGGG
 GGGHGGG
