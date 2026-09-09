@@ -19,4 +19,4 @@ GGGGGGG
 
 The result : 
 
-![map](../assets/res1.png)
+![map](/assets/res1.png)
