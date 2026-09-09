@@ -1,6 +1,6 @@
 A tiny map maker project made in C 
 
-Usage : 
+# Usage  
 
 To make your map, edit **map_one** file. 
 Just draw your map using theses rules : 
