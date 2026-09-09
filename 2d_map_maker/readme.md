@@ -19,4 +19,4 @@ GGGGGGG
 
 The result : 
 
-![map](/assets/res1.png)
+![map](/2d_map_maker/assets/res1.png)
