@@ -6,7 +6,7 @@
 
 
 // To do : Loop on an img directory to feed our array :)
-//         im just testing some shits
+//         im just testing 
 Texture2D * generate_static() {
     Texture2D * tab = malloc(sizeof(Texture2D) * ELEMENT_SIZE);
     if(tab ==  NULL) {
