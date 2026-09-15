@@ -6,14 +6,14 @@ int main() {
     InitWindow(1280, 720, "Menu Console Custom");
 
     // model & textures loading
-    Model planet = LoadModel("planet.obj");
-    Model stick_game = LoadModel("stick_game.obj");
+    Model planet = LoadModel("../assets/planet.obj");
+    Model stick_game = LoadModel("../assets/stick_game.obj");
 
-    Model skybox = LoadModel("skybox_flip.obj");
+    Model skybox = LoadModel("../assets/skybox_flip.obj");
 
-    Texture2D texture = LoadTexture("texture.png");
-    Texture2D texture2 = LoadTexture("stick_game.png");
-    Texture2D texture3 = LoadTexture("space_box.png");
+    Texture2D texture = LoadTexture("../assets/texture.png");
+    Texture2D texture2 = LoadTexture("../assets/stick_game.png");
+    Texture2D texture3 = LoadTexture("../assets/space_box.png");
 
     planet.materials[0].maps[MATERIAL_MAP_DIFFUSE].texture = texture;
     stick_game.materials[0].maps[MATERIAL_MAP_DIFFUSE].texture = texture2;

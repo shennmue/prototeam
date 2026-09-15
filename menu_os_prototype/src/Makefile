@@ -1,7 +1,6 @@
 # --- Configuration ---
 # Nom de ton jeu/menu final
-TARGET = mon_menu
-
+TARGET = menu
 # Compilateur (utilise gcc si tu codes en C pur)
 CXX = g++
 
